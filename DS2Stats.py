@@ -1,3 +1,10 @@
+# Copyright (c) 2014 Benjamin Massey
+# Dark Souls II stats calculator
+
+# This program is available under the MIT License.
+# Please see the file COPYING in this distribution
+# for license information.
+
 # Level
 
 level = int(input("Please enter your soul level: "))
