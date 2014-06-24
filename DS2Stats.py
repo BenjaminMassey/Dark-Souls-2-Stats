@@ -4,6 +4,8 @@
 # This program is available under the MIT License.
 # Please see the file COPYING in this distribution
 # for license information.
+# Incase you got this file from elsewhere, the github
+# page for it is: https://github.com/BenjaminMassey/Dark-Souls-2-Stats
 
 # Level
 
