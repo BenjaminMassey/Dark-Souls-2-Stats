@@ -6,6 +6,7 @@
 # for license information.
 # Incase you got this file from elsewhere, the github
 # page for it is: https://github.com/BenjaminMassey/Dark-Souls-2-Stats
+# Contact me at benjamin.w.massey@gmail.com
 
 # Level
 
