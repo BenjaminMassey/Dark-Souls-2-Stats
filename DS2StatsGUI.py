@@ -24,7 +24,7 @@ def mend():
     if endurance > 20:
         stamina = 80 + 40 + (endurance - 20)
         
-    endans = "You have " , str(stamina), " total stamina."
+    endans = "You have " + str(stamina) + " total stamina."
     mlabel2 = Label(mGui, text = endans).pack()
     return
 
